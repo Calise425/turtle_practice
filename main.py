@@ -106,7 +106,4 @@ screen.colormode(255)
 # screen.onkey(fun=turn_right, key="Right")
 # screen.onkey(fun=clear, key="c")
 
-
-
-
 screen.exitonclick()
